@@ -1,6 +1,6 @@
 const fs = require ('fs');
 
-const basepath = 'Ddiretorioteste/'
+const basepath = 'diretorioteste/'
 const prefix = 'ytdown-'
 
 fs.readdir(basepath, (error, files) => {
